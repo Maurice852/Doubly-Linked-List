@@ -1,0 +1,10 @@
+C:\Users\ekkel\source\repos\DLL\DLL\bin\Debug\DLL.exe.config
+C:\Users\ekkel\source\repos\DLL\DLL\bin\Debug\DLL.exe
+C:\Users\ekkel\source\repos\DLL\DLL\bin\Debug\DLL.pdb
+C:\Users\ekkel\source\repos\DLL\DLL\obj\Debug\DLL.csprojAssemblyReference.cache
+C:\Users\ekkel\source\repos\DLL\DLL\obj\Debug\DLL.Form1.resources
+C:\Users\ekkel\source\repos\DLL\DLL\obj\Debug\DLL.Properties.Resources.resources
+C:\Users\ekkel\source\repos\DLL\DLL\obj\Debug\DLL.csproj.GenerateResource.cache
+C:\Users\ekkel\source\repos\DLL\DLL\obj\Debug\DLL.csproj.CoreCompileInputs.cache
+C:\Users\ekkel\source\repos\DLL\DLL\obj\Debug\DLL.exe
+C:\Users\ekkel\source\repos\DLL\DLL\obj\Debug\DLL.pdb
